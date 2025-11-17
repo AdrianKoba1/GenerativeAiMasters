@@ -20,9 +20,9 @@ A Streamlit-based business data dashboard and intelligent agent for exploring an
 
 ## Screenshots
 
-!(screenshots/1.png)
-!(screenshots/2.png)
-!(screenshots/3.png)
+![Start Page](screenshots/1.png)
+![Prompt](screenshots/2.png)
+![Finished product](screenshots/3.png)
 ---
 
 ## Prerequisites & Setup
@@ -32,7 +32,7 @@ A Streamlit-based business data dashboard and intelligent agent for exploring an
 
 ### 1. Install Dependencies
 
-Save this content as your `requirements.txt`:
+Save this content as your `dependencies.txt`:
 streamlit
 pandas
 openai
