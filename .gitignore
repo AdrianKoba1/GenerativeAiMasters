@@ -1,0 +1,13 @@
+# Ignore all secrets.toml files in any subfolder
+**/.streamlit/secrets.toml
+# Ignore venvs and common stuff globally
+**/venv/
+**/.venv/
+**/__pycache__/
+*.pyc
+*.pyo
+*.DS_Store
+**/.env
+**/.idea/
+**/.vscode/
+**/.pytest_cache/
