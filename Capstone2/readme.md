@@ -27,9 +27,8 @@ Supports voice recording or upload, shows transcript and expanded prompt, genera
 
 ## Installation & Setup
 
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
-pip install -r requirements.txt
+
+pip install -r dependencies.txt
 
 text
 
