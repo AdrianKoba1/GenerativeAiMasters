@@ -2,6 +2,8 @@
 
 A Streamlit-based business data dashboard and intelligent agent for exploring and understanding your sales database with natural queries, function calling, and safety controls.
 
+
+HugginFace link : https://huggingface.co/spaces/Abdurahmon2603/Capstone1
 ---
 
 ## Features
@@ -105,7 +107,7 @@ The app will open in your default browser.
 ## Security & Safety
 
 - All write/dangerous commands are blocked to prevent unwanted data changes
-- The OpenAI API key is NEVER shared in code — always secured in `secrets.toml`
+- The OpenAI API key is secured in `secrets.toml`
 
 
 ---
